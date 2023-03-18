@@ -1,0 +1,4 @@
+
+/* betty style doc for function main goes there */
+sitive_or_negative.c:20: ERROR: trailing whitespace
+0-positive_or_negative.c:20: ERROR: code indent should use tabs where poss
