@@ -1,4 +1,3 @@
-ll the .c files in the current directory
 c_files=$(find . -maxdepth 1 -type f -name "*.c")
 # Compile each .c file into an object file
 for c_file in $c_files; do
